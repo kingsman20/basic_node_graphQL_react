@@ -1,4 +1,4 @@
-# A Basic Post APP using
+# A Basic Post APP
 - Node.js
 - GraphQL
 - Express-graphql
